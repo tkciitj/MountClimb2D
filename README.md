@@ -30,3 +30,5 @@ OS: Windows 10 or later / macOS 10.14 or later
 Processor: Intel Core i3 or equivalent
 Memory: 4 GB RAM
 To quit the game, simply close the game window.
+
+GamePlay: https://drive.google.com/file/d/1zThv6_BEUc18Jy8gJx2uI1R56Nu_XiY4/view?usp=sharing
